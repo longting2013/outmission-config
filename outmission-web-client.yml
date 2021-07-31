@@ -21,7 +21,7 @@ spring:
   application:
     name: outmission-web-client
 server:
-  port: 8002
+  port: 8001
   
 eureka:
   client: #客户端注册进eureka服务列表内
